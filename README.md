@@ -27,11 +27,13 @@ The trained agent achieved an average reward of **+130** (the maximum score is +
 
 The graph below illustrates the training process over 2000 episodes, showing a successful convergence of the average reward (orange line) into the positive zone, indicating consistent successful landings.
 
-![PPO Reward Convergence Curve](./assets/plot_reward.png)
+<img src="./assets/plot_reward.png" alt="PPO Reward Convergence Curve" width="500"/>
 
 **Watch the agent in action:**
 
-[![Click on the link to see the video.](./assets/thumbnail.png)](https://youtu.be/UatK5F6JCgY)
+<a href="https://youtu.be/UatK5F6JCgY">
+  <img src="./assets/thumbnail.png" alt="See the full video." width="400"/>
+</a>
 
 ---
 
