@@ -31,7 +31,7 @@ The graph below illustrates the training process over 2000 episodes, showing a s
 
 **Watch the agent in action:**
 
-[![Click on the link to see the video.](./assets/landing_screenshot.png)](https://youtu.be/UatK5F6JCgY)
+[![Click on the link to see the video.](./assets/thumbnail.png)](https://youtu.be/UatK5F6JCgY)
 
 ---
 
