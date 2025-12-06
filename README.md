@@ -31,7 +31,7 @@ The graph below illustrates the training process over 2000 episodes, showing a s
 
 **Watch the agent in action:**
 
-[Lunar Lander PPO Agent in Action](https://youtu.be/UatK5F6JCgY)
+[![Click on the link to see the video.](./landing_screenshot.png)](https://youtu.be/UatK5F6JCgY)
 
 ---
 
